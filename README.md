@@ -39,13 +39,8 @@
 
 ## Getting Started
 
-### Prerequisites
-- **Myntra Account**: Users need to have a registered account on Myntra.
-- **App Installation**: Install the Mynterest app from the Myntra platform.
-
 ### Installation
-1. **Download**: Download the Mynterest app from the Myntra platform.
-2. **Sign In**: Sign in with your Myntra account credentials.
+2. **Sign In**: Sign in with your credentials.
 3. **Explore**: Start exploring AI-generated outfit inspirations and participate in contests.
 
 ### Usage

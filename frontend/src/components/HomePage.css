@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.navbar {
+  width: 100%;
+  position: fixed;
+  top: 0;
+}
+
+.vh-100 {
+  margin-top: 56px;
+  padding-top: 20px;
+}
+
+img {
+  border-radius: 8px;
+}
+.home-link:hover,
+.explore-link:hover {
+  color: rgb(185, 74, 92);
+}

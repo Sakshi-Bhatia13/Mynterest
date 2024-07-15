@@ -37,6 +37,8 @@
 - **Product Recommendations**: Suggests Myntra products that match the AI-generated outfits when users click on them.
 - **Enhanced Shopping Experience**: Provides a seamless transition from inspiration to shopping, enhancing the overall user experience.
 
+Check out the project on Hugging Face Spaces: [Fashion Recommender on Hugging Face](https://huggingface.co/spaces/StatWiz/fashion-recommender-copy/tree/main)
+
 ## Getting Started
 
 ### Installation

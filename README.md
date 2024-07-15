@@ -52,14 +52,6 @@
 
 We welcome contributions from the community. If you have ideas, suggestions, or want to report issues, please reach out to us through the contact information provided in the app.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-For more information or support, please contact our team at [support@mynterest.com](mailto:support@mynterest.com).
-
 ---
 
 Mynterest is here to revolutionize the way you find fashion inspiration and shop on Myntra. Enjoy a seamless blend of AI innovation and fashion creativity!

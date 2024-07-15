@@ -1,0 +1,10 @@
+git+https://github.com/huggingface/diffusers.git
+accelerate
+safetensors
+diffusers
+transformers
+torch
+tensorflow
+scikit-learn
+numpy
+pandas

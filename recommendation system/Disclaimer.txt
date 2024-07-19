@@ -1,0 +1,5 @@
+Disclaimer
+
+This project utilizes code from the repository Raj086/fashion-recommender as a reference . 
+We extend our sincere thanks to the original author, Raj086, for making this code publicly available and for their contributions to the open-source community. 
+All credit for the referenced code goes to Raj086, and any modifications or additional code in this project are our own work.
